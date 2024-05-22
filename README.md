@@ -1,7 +1,7 @@
 ## Olá! Eu sou Alefe Gomes 👋🏻
-- 👨🏻‍💻 Estudante de Analise e Desenvolvimento de Sistemas
-- 🐍 Atualmente estou aprendendo Python
-- 🤝 Procuro colaborar em Projeto de Python/Django
+- 👨🏻‍💻 Formado em Analise e Desenvolvimento de Sistemas
+- 🐍 Atualmente estudando JavaScript 
+- 🤝 Procuro colaborar em Projetos Web Front-End com Javascript/html/css
 - 📩 Contate-me no email: alefe.182@outlook.com
 
 
